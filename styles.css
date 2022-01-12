@@ -23,6 +23,11 @@ header, footer {
     gap: 30px;
 }
 
+.menus {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
 .main {
     background-color: #1f2937;
     display: flex;
